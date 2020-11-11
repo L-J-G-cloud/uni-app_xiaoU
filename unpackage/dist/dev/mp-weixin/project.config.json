@@ -1,0 +1,44 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "postcss": true,
+        "minified": true
+    },
+    "compileType": "miniprogram",
+    "libVersion": "",
+    "appid": "wx2f26909d14cc3fdf",
+    "projectname": "shop",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/cart/cart",
+                    "pathName": "pages/cart/cart",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/confirm/confirm",
+                    "pathName": "pages/confirm/confirm",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}
